@@ -1,0 +1,1 @@
+This file is places in public folder.
